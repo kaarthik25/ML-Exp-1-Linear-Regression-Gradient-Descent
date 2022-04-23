@@ -1,5 +1,3 @@
-# ML-Exp-1-Linear-Regression-Gradient-Descent
-#OUTPUT:
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
@@ -51,7 +49,6 @@ plt.plot(loss)
 plt.xlabel("iterations")
 plt.ylabel("loss")
 ```
-
 #OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/70479123/161577670-445e733e-9561-4850-9378-bbdab181ea0b.png)
